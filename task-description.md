@@ -104,7 +104,7 @@ Make sure you have done everything on the main part and bonus. Deploy and test e
 ### Additional information:
 1. You can use a local image or host image anywhere or both.
 2. You are free to use any css library you want. But, we recommend using tailwind css. Also, you can use one or more component libraries based on your need.
-3. Try to host your site on Firebase (Netlify host will need extra configuration) and deploy your server-side code to Heroku. Don't forget to replace localhost links on the client-side. Make sure your website is working without your computer running. Check your website on your phone after the final deployment.
+3. Try to host your site on Firebase (Netlify host will need extra configuration) and deploy your server-side code to Render. Don't forget to replace localhost links on the client-side. Make sure your website is working without your computer running. Check your website on your phone after the final deployment.
 
 
 
